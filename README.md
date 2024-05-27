@@ -71,9 +71,9 @@ Specifically, we are to build a model that more accurately predicts the unit sal
 
 ## Hypothesis Investigated
 
-**Null Hypothesis (H0)** : The number of products under promotion does not influence sales in supermarkets.
+**Null Hypothesis (H0)** : Promotional activities do not have a significant impact on sales.
 
-**Alternate Hypothesis (H1)** : The number of products under promotion significantly influence sales in supermarkets.
+**Alternate Hypothesis (H1)** : Promotional activities have a significant impact on sales.
 
 ## Rationale
 
@@ -84,13 +84,13 @@ By testing these hypotheses and examining the correlation between promotions and
 
 ### Results
 
-| Test Conducted               | Pearson Correlation     | P-Value                |
+| Test Conducted               | scipy.stats.ttest_ind     | P-Value                |
 | ---------------------------- | ------------------ | ---------------------- |
-| Independent Samples T - Test | 0.4180 | 0.0000 |
+| Independent Samples T - Test | 193.83 | 0.0000 |
 
-In conclusion, the Pearson correlation coefficient calculated between the number of products under promotion (as indicated by the "onpromotion" column) and sales in supermarkets is approximately 0.4180. The corresponding p-value obtained from the correlation analysis is very close to zero (P-value: 0.0000). Based on the results of this analysis, we reject the null hypothesis.
+In conclusion, the scipy.stats.ttest_ind calculated between the number of products under promotion (as indicated by the "onpromotion" column) and sales in supermarkets is approximately 193.83. The corresponding p-value obtained from the  analysis is very close to zero (P-value: 0.0000). Based on the results of this analysis, we reject the null hypothesis.
 
-There is a statistically significant positive correlation (Pearson Correlation Coefficient = 0.4180) between the number of products under promotion and sales in supermarkets. This suggests that promotions have a significant influence on sales, and as the number of products under promotion increases, sales tend to increase as well.
+There is a statistically significant positive relationship (193.83) between the number of products under promotion and sales in supermarkets. This suggests that promotions have a significant influence on sales, and as the number of products under promotion increases, sales tend to increase as well.
 
 
 
