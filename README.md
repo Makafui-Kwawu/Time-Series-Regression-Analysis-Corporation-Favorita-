@@ -1,6 +1,6 @@
 # 💼 Time Series Sales Machine Learning Prediction Project
 
-![head image](https://github.com/snyamson/LP3-Super-Store-Time-Series-Forecasting/assets/58486437/82c9c1c7-4628-4a40-a688-d05db4824c88)
+
 
 
 In this machine learning regression project, the goal is to develop a model that can accurately predict the value of the dependent variable based on the values of the independent variables. The model is developed by training the algorithm on a dataset of historical data. The algorithm learns from the data and identifies patterns that can be used to predict the value of the dependent variable.
@@ -124,7 +124,7 @@ Therefore, for this specific forecasting task, we are adopting the XGBoost model
 
 ## Getting Started🏁
 
-1. Clone this repository: `git clone https://github.com/snyamson/LP3-Super-Store-Time-Series-Forecasting.git`
+1. Clone this repository: `[git clone https://github.com/Makafui-Kwawu/Time-Series-Regression-Analysis-Corporation_Favorita.git]`
 2. Navigate to the project directory: `LP3-Super-Store-Time-Series-Forecasting`
 3. Explore the Jupyter notebooks for detailed steps and code execution.
 4. Read the published article for a comprehensive understanding of the project.
@@ -135,9 +135,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author✍️
 
-Solomon Nyamson
+Success Makafui Kwawu
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/solomon-nyamson/)
+Connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/smkwawu/)
 
 ---
 
