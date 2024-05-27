@@ -106,9 +106,9 @@ A snapshot of the conducted exploratory data analysis, aimed at addressing pivot
 ## Model Selection
 
 
-![modelse](![Model](https://github.com/Makafui-Kwawu/Time-Series-Regression-Analysis-Corporation_Favorita/assets/160020850/02e79d25-7683-4e5f-86c1-4ade6ea44ae4)
+(![Model](https://github.com/Makafui-Kwawu/Time-Series-Regression-Analysis-Corporation_Favorita/assets/160020850/02e79d25-7683-4e5f-86c1-4ade6ea44ae4)
 
-After carefully assessing the performance of our models using key evaluation metrics, it is evident that the XGBoost model stands out as the most effective choice for our dataset. The RMSLE (Root Mean Squared Logarithmic Error) serves as a crucial indicator, and the XGBoost model achieved the lowest RMSLE of 0.0054 among all models evaluated. This indicates that the XGBoost model provides the most accurate and precise predictions when compared to ARIMA, SARIMA, and ETS models.
+After carefully assessing the performance of our models using key evaluation metrics, it is evident that the XGBoost model stands out as the most effective choice for our dataset. The RMSLE (Root Mean Squared Logarithmic Error) serves as a crucial indicator, and the XGBoost model achieved the lowest RMSLE of 0.007 among all models evaluated. This indicates that the XGBoost model provides the most accurate and precise predictions when compared to ARIMA, SARIMA, and Linear Regression models.
 
 Therefore, for this specific forecasting task, we are adopting the XGBoost model for its superior predictive accuracy.
 
