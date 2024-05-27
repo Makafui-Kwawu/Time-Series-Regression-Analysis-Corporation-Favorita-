@@ -67,7 +67,7 @@ Specifically, we are to build a model that more accurately predicts the unit sal
 
 | Code | Name                                     |                                             Published Article                                              |                                                                                                                                                    Deployed Dashboard |
 | ---- | ---------------------------------------- | :--------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| LP 3 | Sales Time Series Prediction | [Read Article](https://www.linkedin.com/pulse/predictive-analytics-retail-deep-dive-forecasting-solomon) | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjY1ZjkxYjktYjhkNy00OWRmLTkyM2QtZWVjMTVhMmY2ZTczIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |
+| LP 3 | Sales Time Series Prediction | [Read Article](https://medium.com/@sm.kwawu/time-series-regression-analysis-corporation-favorita-9bf8e518a352) | [View Dashboard](https://app.powerbi.com/groups/me/reports/ec366f41-305d-441b-a829-fbe4ab7ab550/152078cc5237c0300935?experience=power-bi) |
 
 ## Hypothesis Investigated
 
